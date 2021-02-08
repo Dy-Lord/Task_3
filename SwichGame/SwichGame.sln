@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwichGame", "SwichGame.csproj", "{0A072A55-5297-4F31-9017-DE2BC6EAF68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A072A55-5297-4F31-9017-DE2BC6EAF68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A072A55-5297-4F31-9017-DE2BC6EAF68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A072A55-5297-4F31-9017-DE2BC6EAF68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A072A55-5297-4F31-9017-DE2BC6EAF68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {247CFC86-7C50-43B1-BC7E-B678C144D6CE}
+	EndGlobalSection
+EndGlobal

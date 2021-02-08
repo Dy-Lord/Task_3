@@ -1,0 +1,9 @@
+C:\Users\User01\Desktop\SwichGame\bin\Debug\SwichGame.exe.config
+C:\Users\User01\Desktop\SwichGame\bin\Debug\SwichGame.exe
+C:\Users\User01\Desktop\SwichGame\bin\Debug\SwichGame.pdb
+C:\Users\User01\Desktop\SwichGame\obj\Debug\SwichGame.csprojAssemblyReference.cache
+C:\Users\User01\Desktop\SwichGame\obj\Debug\SwichGame.csproj.CoreCompileInputs.cache
+C:\Users\User01\Desktop\SwichGame\obj\Debug\SwichGame.exe
+C:\Users\User01\Desktop\SwichGame\obj\Debug\SwichGame.pdb
+C:\Users\User01\Desktop\SwichGame\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User01\Desktop\SwichGame\obj\Debug\SwichGame.csproj.CopyComplete
